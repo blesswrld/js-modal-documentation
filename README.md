@@ -1,5 +1,5 @@
 
-# JavaScript Modal Module 🗝️
+# JavaScript Modal Documentation 🗝️
 
 The **JavaScript Modal Module** provides a fully customizable modal window component that can be triggered by clicking buttons or reaching the bottom of the page. This module allows you to easily add modals to your project with the option for auto-triggering based on user scrolling.
 

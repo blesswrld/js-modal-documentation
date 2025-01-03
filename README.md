@@ -20,7 +20,7 @@ The **JavaScript Modal Module** provides a fully customizable modal window compo
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/js-modal-module.git
+git clone https://github.com/blesswrld/js-modal-module.git
 ```
 
 Or download the `modal.js` file and include it in your project.
